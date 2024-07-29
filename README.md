@@ -1,0 +1,1 @@
+Following the exercises within https://jakevdp.github.io/PythonDataScienceHandbook/ 
